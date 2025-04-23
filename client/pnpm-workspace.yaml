@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@clerk/shared'
+  - sharp
+
+ignoredBuiltDependencies:
+  - browser-tabs-lock
+  - core-js
